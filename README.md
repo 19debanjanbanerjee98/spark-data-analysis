@@ -1,4 +1,4 @@
-#DATA ANALYSIS :: WEB SEMANTIC & BIG DATA
+#DATA ANALYSIS :: Kaggle's Chicago crime analysis [BIG DATA]
 
 #Copyrights : JOUHRI ANASS & BOUBEKEUR TAHAR
 
@@ -10,10 +10,12 @@
 
 #TOOLS :
 	- Project based on : 
-		+ Pyspark
+		+ Apache PySpark
 		+ Pandas
-		+ Matplotlib
+		+ Matplotlib & Seaborn
 		+ Numpy
+		+ IpyLeaflet
+		+ Spark Machine Learning Lib
 
 	- Executed using :
 		+ Pyspark (on Jupyter notebook)
